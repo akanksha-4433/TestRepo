@@ -4,6 +4,3 @@ New testing required
 
 Again add new line
 
-Line7
-Line8
-Line9
